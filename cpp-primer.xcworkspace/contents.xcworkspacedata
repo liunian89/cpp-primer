@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:c1-class/c1-class.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c1-counter/c1-counter.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:c1-sum/c1-sum.xcodeproj">
    </FileRef>
 </Workspace>
