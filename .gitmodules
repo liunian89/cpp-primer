@@ -1,0 +1,6 @@
+[submodule "sampleTest/googletest"]
+	path = sampleTest/googletest
+	url = git@github.com:google/googletest.git
+[submodule "sampleTest/sampleTest/googletest"]
+	path = sampleTest/sampleTest/googletest
+	url = git@github.com:google/googletest.git

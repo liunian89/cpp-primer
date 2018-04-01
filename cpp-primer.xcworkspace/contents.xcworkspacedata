@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:geometry/geometry.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:sampleTest/sampleTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c2-type/c2-type.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c2-pointer/c2-pointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c2-const/c2-const.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c2-reference/c2-reference.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/nliu/Development/random/cpp-primer/c2-variables/c2-scope.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:c1-class/c1-class.xcodeproj">
    </FileRef>
    <FileRef

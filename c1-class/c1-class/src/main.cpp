@@ -3,6 +3,10 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
+    int month = 9, day = 07;
+    cout << month;
+    
+    cout << day;
     Sales_item total;
     
     if (cin >> total) {
